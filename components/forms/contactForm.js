@@ -87,7 +87,6 @@ export default function ContactDetailsForm({ detailsValue, contactValue, onHandl
                 sx={{
                     '& .MuiTextField-root': { m: 1, width: '20ch' },
                 }}
-                noValidate
                 autoComplete="off"
                 className={classes.root}
             >
